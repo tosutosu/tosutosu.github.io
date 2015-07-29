@@ -14,7 +14,7 @@ h1 {
 
 h1 > span.title-arrange {
     font-size: 0.5em;
-    color: #f3dd14
+    color: #f3dd14;
 }
 
 h2 {
@@ -55,4 +55,9 @@ img.app-logo {
 img.my-logo {
     width: 120px;
     height: 120px;
+}
+
+footer {
+    color: #ffffff;
+    margin-left: 20px;
 }
