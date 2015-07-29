@@ -21,6 +21,10 @@ h2 {
     margin: 0;
 }
 
+h3 {
+    padding-top: 10px;
+}
+
 .title {
     display: block;
 }
