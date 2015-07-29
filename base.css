@@ -1,0 +1,54 @@
+body {
+    background-color: #053574;
+}
+
+h1 {
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    text-shadow: 3px 3px 6px #000000;
+    ;
+    padding-top: 20px;
+    margin-left: 20px;
+}
+
+h1 > span.title-arrange {
+    font-size: 0.5em;
+    color: #f3dd14
+}
+
+h2 {
+    margin: 0;
+}
+
+.title {
+    display: block;
+}
+
+.app-list {
+    display: block;
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px 0px;
+    box-shadow: 3px 3px 6px #000000;
+}
+
+.profile {
+    background-color: #ffffff;
+    border-radius: 5px;
+    margin: 0px;
+    padding: 0px 15px 10px;
+    box-shadow: 3px 3px 6px #000000;
+}
+
+img.app-logo {
+    width: 120px;
+    height: 120px;
+    border-radius: 5px;
+}
+
+img.my-logo {
+    width: 120px;
+    height: 120px;
+}
